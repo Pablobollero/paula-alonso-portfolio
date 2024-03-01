@@ -1,0 +1,12 @@
+.Container {
+    background-color: black;
+    display: grid;
+    display: grid;
+    grid-template-rows: 10% auto 15%;
+    grid-template-areas:
+        "header"
+        "main"
+        "footer";
+    width: 100vw;
+    height: 100vh;
+}
