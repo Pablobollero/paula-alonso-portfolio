@@ -1,0 +1,43 @@
+@use './variables';
+
+//Font Styles Variables
+
+//Urbanist Regular 400
+.urbanist-regular {
+    font-family: $urbanist-regular;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+//Urbanist SemiBold 600
+.urbanist-semiBold {
+    font-family: $urbanist-semiBold;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+
+//Open Sans Regular 400
+
+.open-sans-regular {
+    font-family: $open-sans-regular;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+//Open SemiBold 600
+
+.open-sans-semiBold {
+    font-family: $open-sans-semiBold;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
