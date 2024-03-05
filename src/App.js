@@ -4,7 +4,7 @@ import './styless.scss';
 function App() {
   return (
     <div>
-      <BodyContainer />
+      <BodyContainer/>
     </div>
   );
 }

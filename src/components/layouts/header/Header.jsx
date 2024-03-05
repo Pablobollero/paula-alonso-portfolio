@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import NavBar from '../navBar/NavBar';
 import styles from './_header.module.scss';
 
